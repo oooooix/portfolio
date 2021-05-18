@@ -157,6 +157,10 @@ Please remember, that after modyfying `gatsby-config.js` file it may be required
 
 ## Changelog
 
+### 2.0.0
+
+The theme is now compatible with Gatsby v3 and TailwindCSS v2.
+
 ### 1.1.0
 
 The version introduces required changes to make the contact form work after [latest changes](https://help.formspree.io/hc/en-us/articles/360056076314-Phasing-out-legacy-forms-email-URLs-) from Formspree.
