@@ -6,10 +6,9 @@
     - Numpy
 
 - name: OAK Studio
-  url: https://oaksvideo.com
   description: Oak Creator Studio enables content creators to reach a broader audience 
     effectively by bridging gaps between YouTube and other video platforms.
-  status: live
+  status: WIP
   tags:
     - gRPC
     - Java
