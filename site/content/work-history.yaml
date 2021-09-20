@@ -1,12 +1,17 @@
+- company: Wish
+  position: Software Engineer Intern
+  period: May 2021 - present
+  url: https://wish.com
+
 - company: University of Waterloo
   position: Research Assistant
-  period: May 2021 - present
-  url: https://wasl.uwaterloo.ca/
+  period: May 2021 - August 2021
+  url: https://wasl.uwaterloo.ca
 
 - company: Apple Inc.
-  position: Software Engineer
+  position: Software Engineer Intern
   period: January 2021 - April 2021
-  url: https://www.apple.com/newsroom/
+  url: https://www.apple.com/newsroom
 
 - company: Institute for Quantum Computing
   position: Research Assistant
@@ -14,7 +19,7 @@
   url: https://tqt.uwaterloo.ca
 
 - company: Huawei Technologies
-  position: Software Engineer @ openLooKeng
+  position: Software Engineer Intern
   period: September 2019 - December 2019
   url: https://www.huawei.com/en/corporate-information
 

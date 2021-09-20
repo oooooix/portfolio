@@ -1,3 +1,11 @@
+- name: Language Simplification Project
+  description: A sequence-to-sequence NLP model that translate English sentences into other readability levels via
+    controllable parameters. 
+  status: in progress
+  tags:
+    - PyTorch
+    - NLP
+
 - name: Atom Sorting
   description: An atom trapping system that creates 1D & 2D defect-free atom arrays
     by trapping and rearranging the atoms using acousto-optic deflectors efficiently.
@@ -8,7 +16,7 @@
 - name: OAK Studio
   description: Oak Creator Studio enables content creators to reach a broader audience 
     effectively by bridging gaps between YouTube and other video platforms.
-  status: WIP
+  status: in progress
   tags:
     - gRPC
     - Java
