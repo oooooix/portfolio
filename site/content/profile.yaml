@@ -1,21 +1,19 @@
 - profile:
   initials: HX
   name: Hongru Xiang
-  email: h4xiang@uwaterloo.ca
+  email: orionxhr@gmail.com
   profession: Software Developer
   image: images/profile.png
   location: Waterloo, Canada
-  relocation: true
-  company: Wish
-  for_hire: true
-  focus: Capstone Project
-  focus_url: https://ece.uwaterloo.ca/~se_capstone/
+  relocation: false
+  company: Google
+  for_hire: false
+  focus: Service Infrastructure
+  focus_url: https://cloud.google.com/service-infrastructure/docs/overview
   about: |
     I'm a software engineer based in Waterloo, ON specializing in building and designing exceptional software systems 
     and infrastructure ranging from distributed SQL engine and consumer-centric content management platform to advanced
     algorithms and data visualization tools.
-    Currently, I'm working on my Final Year Design Projec that modifies English sentences to other readability levels through
-    controllable parameters.
   skills:
     - PyTorch
     - gRPC

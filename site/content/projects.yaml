@@ -1,7 +1,6 @@
 - name: Language Simplification Project
   description: A sequence-to-sequence NLP model that translate English sentences into other readability levels via
     controllable parameters. 
-  status: in progress
   tags:
     - PyTorch
     - NLP
@@ -16,7 +15,6 @@
 - name: OAK Studio
   description: Oak Creator Studio enables content creators to reach a broader audience 
     effectively by bridging gaps between YouTube and other video platforms.
-  status: in progress
   tags:
     - gRPC
     - Java

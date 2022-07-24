@@ -1,6 +1,11 @@
+- company: Google
+  position: Software Engineer
+  period: June 2022 - present
+  url: https://google.com
+
 - company: Wish
   position: Software Engineer Intern
-  period: September 2021 - present
+  period: September 2021 - December 2021
   url: https://wish.com
 
 - company: University of Waterloo
