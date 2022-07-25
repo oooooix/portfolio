@@ -7,6 +7,51 @@ A few modifications have been done to the original repo.
 The theme is imported from the local theme, instead of the officially hosted theme. Thus, to run this, in `gatsby-theme-intro` and `site` run
 ```bash
 yarn install
+
+## Preview
+
+[![Intro Theme](https://github.com/wkocjan/gatsby-theme-intro/blob/master/intro.png?raw=true)](https://www.youtube.com/watch?v=03rKddYHazo)
+
+### Live Demo
+
+Live demo is available at:
+https://weeby.studio/intro/preview
+
+## Features
+
+- Show your skills, tools, projects & career path
+- 10 predefined color versions
+- YAML files as a data source
+- Contact form integrated with [Formspree](https://formspree.io/)
+- Uses utility-first [TailwindCSS](https://tailwindcss.com/) framework
+- Responsive design (desktop / mobile)
+
+## 🚀 Getting Started
+
+### Install theme & dependencies
+
+```shell
+mkdir my-site
+cd my-site
+yarn init -y
+yarn add gatsby react react-dom @wkocjan/gatsby-theme-intro
+```
+
+### Enable theme
+
+Then add the theme to your `gatsby-config.js`.
+
+```javascript
+module.exports = {
+  plugins: [
+    {
+      resolve: "@wkocjan/gatsby-theme-intro",
+      options: {
+        theme: "classic",
+      },
+    },
+  ],
+}
 ```
 Then, in `site` run
 ```bash
