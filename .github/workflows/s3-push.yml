@@ -1,7 +1,7 @@
 name: Deploy to S3 and invalidate CloudFront cache
 
 on:
-  pull_request:
+  push:
     branches:
       - master
 jobs:
