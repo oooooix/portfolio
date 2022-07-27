@@ -29,6 +29,6 @@ jobs:
       - name: Deploy
         uses: jonelantha/gatsby-s3-action@v1
         with:
-          dest-s3-bucket: hongru.studio
-          cloudfront-id-to-invalidate: E2LOJWWO2HRH5W
+          dest-s3-bucket: yy.web
+          cloudfront-id-to-invalidate: EML0C69S5ETIR
           public-source-path: ./site/public/
