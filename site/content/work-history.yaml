@@ -1,14 +1,19 @@
+- company: PwC
+  position: Associate - Risk Assurance
+  period: October 2023 - now
+  url: https://www.pwc.com/gx/en/services/audit-assurance/risk-assurance.html
+
 - company: Pfizer Inc.
-  position: Regional Business Assistant Intern
+  position: Regional Business Assistant
   period: July 2020 - July 2021
   url: https://www.pfizer.com
 
 - company: China CITIC Bank
-  position: Investment Advisory Intern
+  position: Financial Advisor
   period: January 2020 - March 2020
   url: https://www.citicbank.com
 
 - company: Tencent
-  position: Cloud Content Operations Intern
+  position: Technical Writer
   period: November 2019 - June 2020
   url: https://cloud.tencent.com/developer

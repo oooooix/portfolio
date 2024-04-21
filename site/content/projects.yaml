@@ -1,12 +1,16 @@
+- name: Federated Learning for Cancer Diagnosis
+  description: Trained a cross-silo, heterogeneous federated classification model for cancer diagnosis on the mRNA
+    portion of the TCGA dataset, reaching 90-92% accuracy on 0%, 50%, and 90% straggler client ratio.
+  tags:
+    - Federated Learning
+    - PyTorch
+
 - name: EMNIST-ByClass Classification
   description: Improved VGG-16 by adding batch normalization, PReLU function, and GAP layer to reach 87.49% accuracy
     after 50 epochs on EMNIST-ByClass dataset. The original VGG-16 (without using pretraining) can only reach under 
     80% after 50 epochs.
   tags:
     - TensorFlow
-    - Classification
-    - Deep Learning
-    - Python
 
 - name: Kickstarter Fundraising Predictor (Kaggle)
   description: Experimented logistic regression, random forest, k-nearest neighbour, and support vector machine to build
@@ -14,7 +18,6 @@
     gridsearch and k-fold cross validaiton, random forest reached 99.18% accuracy.
   tags:
     - R
-    - Machine Learning
     - Kaggle
 
 - name: Olympic Games Management Web Application
