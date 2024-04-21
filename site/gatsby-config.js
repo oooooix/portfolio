@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    description: "Personal page of Mengyao Zhang",
+    description: "Personal page of Cecilia Zhang",
     locale: "en",
-    title: "Mengyao Zhang | Portfolio",
+    title: "Cecilia Zhang | Portfolio",
     formspreeEndpoint: "https://formspree.io/f/mlezqydw",
   },
   plugins: [
@@ -35,7 +35,7 @@ module.exports = {
           // Setting this parameter is also optional
           respectDNT: true,
           // Defaults to https://www.googletagmanager.com
-          origin: "https://www.mengyaozhang.me",
+          origin: "https://www.ceciliazhang.art",
         },
       },
     },

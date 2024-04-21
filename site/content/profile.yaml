@@ -1,26 +1,26 @@
 - profile:
-  initials: ZMY
+  initials: CZ
   name: Cecilia Zhang
   email: ceciliazmy@163.com
   profession: Data Scientist
   image: images/profile.JPG
   location: Shanghai, China
   relocation: true
-  company: University of Sydney
+  company: PwC
   for_hire: true
-  focus: Capstone Project
-  focus_url: https://www.sydney.edu.au/units/DATA5703
+  focus: Data Analytics
+  focus_url: ""
   about: |
-    I'm a data scientist based in Shanghai specializing in collecting and mining constructive data, 
-    extracting business insights through statistical models, and visualizing complex data in a presentable manner efficiently.
+    I work in Data Science, specializing in collecting and mining constructive data, extracting business insights
+    through statistical models, and visualizing complex data in a presentable manner efficiently.
   skills:
-    - R Language
+    - Data Analytics
     - SQL
-    - Python
+    - Visualization
   tools:
+    - Python
+    - R
     - Tableau
-    - TensorFlow
-    - Keras
   budget:
     currency: $
     min: 5
